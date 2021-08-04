@@ -1,0 +1,9 @@
+C:\Users\Stagiaire\Documents\BibliEmprunt\BibliEmprunt\bin\Debug\netstandard2.0\BibliEmprunt.deps.json
+C:\Users\Stagiaire\Documents\BibliEmprunt\BibliEmprunt\bin\Debug\netstandard2.0\BibliEmprunt.dll
+C:\Users\Stagiaire\Documents\BibliEmprunt\BibliEmprunt\bin\Debug\netstandard2.0\BibliEmprunt.pdb
+C:\Users\Stagiaire\Documents\BibliEmprunt\BibliEmprunt\obj\Debug\netstandard2.0\BibliEmprunt.csprojAssemblyReference.cache
+C:\Users\Stagiaire\Documents\BibliEmprunt\BibliEmprunt\obj\Debug\netstandard2.0\BibliEmprunt.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\BibliEmprunt\BibliEmprunt\obj\Debug\netstandard2.0\BibliEmprunt.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\BibliEmprunt\BibliEmprunt\obj\Debug\netstandard2.0\BibliEmprunt.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\BibliEmprunt\BibliEmprunt\obj\Debug\netstandard2.0\BibliEmprunt.dll
+C:\Users\Stagiaire\Documents\BibliEmprunt\BibliEmprunt\obj\Debug\netstandard2.0\BibliEmprunt.pdb

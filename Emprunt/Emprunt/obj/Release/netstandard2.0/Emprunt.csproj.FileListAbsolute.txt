@@ -1,0 +1,9 @@
+C:\Users\Stagiaire\Documents\Emprunt\Emprunt\bin\Release\netstandard2.0\Emprunt.deps.json
+C:\Users\Stagiaire\Documents\Emprunt\Emprunt\bin\Release\netstandard2.0\Emprunt.dll
+C:\Users\Stagiaire\Documents\Emprunt\Emprunt\bin\Release\netstandard2.0\Emprunt.pdb
+C:\Users\Stagiaire\Documents\Emprunt\Emprunt\obj\Release\netstandard2.0\Emprunt.csprojAssemblyReference.cache
+C:\Users\Stagiaire\Documents\Emprunt\Emprunt\obj\Release\netstandard2.0\Emprunt.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Emprunt\Emprunt\obj\Release\netstandard2.0\Emprunt.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Emprunt\Emprunt\obj\Release\netstandard2.0\Emprunt.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Emprunt\Emprunt\obj\Release\netstandard2.0\Emprunt.dll
+C:\Users\Stagiaire\Documents\Emprunt\Emprunt\obj\Release\netstandard2.0\Emprunt.pdb

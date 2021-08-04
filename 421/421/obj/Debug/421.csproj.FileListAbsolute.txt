@@ -1,0 +1,7 @@
+C:\Users\Stagiaire\Documents\421\421\obj\Debug\421.csprojAssemblyReference.cache
+C:\Users\Stagiaire\Documents\421\421\obj\Debug\421.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\421\421\bin\Debug\421.exe.config
+C:\Users\Stagiaire\Documents\421\421\bin\Debug\421.exe
+C:\Users\Stagiaire\Documents\421\421\bin\Debug\421.pdb
+C:\Users\Stagiaire\Documents\421\421\obj\Debug\421.exe
+C:\Users\Stagiaire\Documents\421\421\obj\Debug\421.pdb

@@ -1,0 +1,7 @@
+C:\Users\Stagiaire\Documents\banks\banks\obj\Debug\banks.csprojAssemblyReference.cache
+C:\Users\Stagiaire\Documents\banks\banks\obj\Debug\banks.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\banks\banks\bin\Debug\banks.exe.config
+C:\Users\Stagiaire\Documents\banks\banks\bin\Debug\banks.exe
+C:\Users\Stagiaire\Documents\banks\banks\bin\Debug\banks.pdb
+C:\Users\Stagiaire\Documents\banks\banks\obj\Debug\banks.exe
+C:\Users\Stagiaire\Documents\banks\banks\obj\Debug\banks.pdb

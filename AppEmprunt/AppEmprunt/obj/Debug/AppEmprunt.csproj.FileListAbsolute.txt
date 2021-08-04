@@ -1,0 +1,13 @@
+C:\Users\Stagiaire\Documents\AppEmprunt\AppEmprunt\bin\Debug\AppEmprunt.exe.config
+C:\Users\Stagiaire\Documents\AppEmprunt\AppEmprunt\bin\Debug\AppEmprunt.exe
+C:\Users\Stagiaire\Documents\AppEmprunt\AppEmprunt\bin\Debug\AppEmprunt.pdb
+C:\Users\Stagiaire\Documents\AppEmprunt\AppEmprunt\bin\Debug\Emprunt.dll
+C:\Users\Stagiaire\Documents\AppEmprunt\AppEmprunt\bin\Debug\Emprunt.pdb
+C:\Users\Stagiaire\Documents\AppEmprunt\AppEmprunt\obj\Debug\AppEmprunt.csprojAssemblyReference.cache
+C:\Users\Stagiaire\Documents\AppEmprunt\AppEmprunt\obj\Debug\AppEmprunt.Form1.resources
+C:\Users\Stagiaire\Documents\AppEmprunt\AppEmprunt\obj\Debug\AppEmprunt.Properties.Resources.resources
+C:\Users\Stagiaire\Documents\AppEmprunt\AppEmprunt\obj\Debug\AppEmprunt.csproj.GenerateResource.cache
+C:\Users\Stagiaire\Documents\AppEmprunt\AppEmprunt\obj\Debug\AppEmprunt.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\AppEmprunt\AppEmprunt\obj\Debug\AppEmprunt.csproj.CopyComplete
+C:\Users\Stagiaire\Documents\AppEmprunt\AppEmprunt\obj\Debug\AppEmprunt.exe
+C:\Users\Stagiaire\Documents\AppEmprunt\AppEmprunt\obj\Debug\AppEmprunt.pdb
